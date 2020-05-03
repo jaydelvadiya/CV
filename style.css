@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+.namaste {
+  width: 40%;
+}
+h1 {
+  position: relative;
+  margin: 0;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Rubik', sans-serif;
+  font-size: 50px;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Rubik', sans-serif;
+  font-size: 25px;
+}
+a {
+  color: #11999E;
+}
+p {
+  font-size: 19px;
+  line-height: 2;
+}
+.p {
+  position: relative;
+  padding-bottom: 75px;
+  margin-bottom: 0;
+  font-family: 'Rubik', sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  color: #66BFBF;
+}
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+}
+.profile {
+  width: 35%;
+  margin: 100px auto 100px auto;
+}
+.skill {
+  margin-top: 100px;
+}
+.contact-me {
+  width: 50%;
+  margin: 100px auto 100px;
+}
+.con {
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+.bottom-container {
+  background-color: #e0ebe8;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.footer-link {
+  text-decoration: none;
+  font-size: 20px;
+}
+.footer-link:hover {
+  color: #eaf6f6;
+}
+.twitter {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.copyright {
+  color: #446878;
+  padding-top: 25px;
+  margin-bottom: 0;
+  font-size: 15px;
+}
+.topcloud {
+  position: absolute;
+  right: 250px;
+  top: 125px;
+  width: 150px;
+  height: 75px;
+}
+.bottomcloud {
+  position: absolute;
+  left: 225px;
+  bottom: 325px;
+  width: 150px;
+  height: 75px;
+}
+.mountain {
+  position: relative;
+  top: 3px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.multimedia {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.interface {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr {
+  width: 5%;
+  border: 7px dotted #e0ebe8;
+  border-bottom: none;
+}
+
+.btn {
+	background-color:#66BFBF;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:12px 12px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+.btn:hover {
+	background-color: #6c5b7b;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
